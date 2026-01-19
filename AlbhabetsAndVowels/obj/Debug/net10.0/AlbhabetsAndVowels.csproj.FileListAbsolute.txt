@@ -12,3 +12,4 @@ D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\refint\AlbhabetsAndVowels.dll
 D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.pdb
 D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.genruntimeconfig.cache
 D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\ref\AlbhabetsAndVowels.dll
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.sourcelink.json

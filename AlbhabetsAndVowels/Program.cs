@@ -5,9 +5,9 @@ public class Program
     public static void Main()
     {
         Console.Write("Enter first word: ");
-        string firstWord = Console.ReadLine();
+        string? firstWord = Console.ReadLine();
         Console.Write("Enter second word: ");
-        string secondWord = Console.ReadLine();
+        string? secondWord = Console.ReadLine();
         if (string.IsNullOrEmpty(firstWord) || string.IsNullOrEmpty(secondWord))
         {
             Console.WriteLine("Input cannot be empty.");
@@ -37,27 +37,24 @@ public class Program
                 return;
             }
         }
-        HashSet<char> secondWordSet = new HashSet<char>();
         foreach (char c in secondWord)
         {
-            char ch = char.ToLower(c);
-            if (ch != 'a' && ch != 'e' && ch != 'i' && ch != 'o' && ch != 'u')
+            if (!"aeiouAEIOU".Contains(c))
             {
-                secondWordSet.Add(ch);
+                firstWord = firstWord.Replace(c.ToString(), "");
             }
         }
-        List<char> firstWordResult = new List<char>();
-        foreach (char c in firstWord)
+        string ans = "";
+        foreach(char ch in firstWord)
         {
-            char ch = char.ToLower(c);
-            if (!secondWordSet.Contains(ch) && !firstWordResult.Contains(ch))
+            if(ans.Length==0 || ans[ans.Length - 1] != ch)
             {
-                firstWordResult.Add(ch);
+                ans += ch;
             }
         }
 
         Console.WriteLine("Alphabets in first word that are not in second word and are not vowels:");
-        foreach (char c in firstWordResult)
+        foreach (char c in ans)
         {
             Console.Write(c + " ");
         }
