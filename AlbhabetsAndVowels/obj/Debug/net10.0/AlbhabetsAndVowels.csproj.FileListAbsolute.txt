@@ -1,0 +1,14 @@
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.AssemblyInfoInputs.cache
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.AssemblyInfo.cs
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.csproj.CoreCompileInputs.cache
+D:\TopBrains\AlbhabetsAndVowels\bin\Debug\net10.0\AlbhabetsAndVowels.exe
+D:\TopBrains\AlbhabetsAndVowels\bin\Debug\net10.0\AlbhabetsAndVowels.deps.json
+D:\TopBrains\AlbhabetsAndVowels\bin\Debug\net10.0\AlbhabetsAndVowels.runtimeconfig.json
+D:\TopBrains\AlbhabetsAndVowels\bin\Debug\net10.0\AlbhabetsAndVowels.dll
+D:\TopBrains\AlbhabetsAndVowels\bin\Debug\net10.0\AlbhabetsAndVowels.pdb
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.dll
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\refint\AlbhabetsAndVowels.dll
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.pdb
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\AlbhabetsAndVowels.genruntimeconfig.cache
+D:\TopBrains\AlbhabetsAndVowels\obj\Debug\net10.0\ref\AlbhabetsAndVowels.dll
