@@ -10,8 +10,8 @@ public class Program
         Console.WriteLine($"Before Swapping: First Number = {firstNumber}, Second Number = {secondNumber}");
         SwappingRef(ref firstNumber, ref secondNumber);
         Console.WriteLine($"After Swapping using Ref: First Number = {firstNumber}, Second Number = {secondNumber}");
-        SwappingOut(firstNumber, secondNumber, out firstNumber, out secondNumber);
-        Console.WriteLine($"After Swapping using Out: First Number = {firstNumber}, Second Number = {secondNumber}");
+        // SwappingOut(firstNumber, secondNumber, out firstNumber, out secondNumber);
+        // Console.WriteLine($"After Swapping using Out: First Number = {firstNumber}, Second Number = {secondNumber}");
     }
     public static void SwappingRef(ref int a, ref int b)
     {
