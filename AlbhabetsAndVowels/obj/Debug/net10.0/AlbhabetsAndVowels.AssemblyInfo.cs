@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlbhabetsAndVowels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea4c9269cd354648c889282a575f18abd98b15f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59724ca64a37810a7765e1b719a17736dfca4d94")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlbhabetsAndVowels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlbhabetsAndVowels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
